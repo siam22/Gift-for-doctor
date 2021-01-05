@@ -1,0 +1,24 @@
+body {
+    margin: 5px;
+    font-family: 'Poppins', sans-serif;
+
+}
+p {
+    color: dimgray;
+}
+h1 {
+    font-size: 50px;
+}
+#first {
+    color: blue;
+}
+.half-width {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    
+}
+.half-width img {
+    width: 50%;
+}
