@@ -3,11 +3,18 @@ body {
     font-family: 'Poppins', sans-serif;
 
 }
+.now {
+    background-image: url("images/try.jpg");
+    
+}
 p {
     color: dimgray;
 }
 h1 {
     font-size: 50px;
+}
+h2 {
+    font-size: 40px;
 }
 #first {
     color: blue;
@@ -20,9 +27,26 @@ h1 {
     
 }
 .half-width img {
-    width: 90%;
+    width: 80%;
+}
+.calm-width {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.calm-width img {
+    width: 100%;
 }
 section {
     height: 500px;
     padding-bottom: 150px;
+}
+.link-babe {
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    
 }
